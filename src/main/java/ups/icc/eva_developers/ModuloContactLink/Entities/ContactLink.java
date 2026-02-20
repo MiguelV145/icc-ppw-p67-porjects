@@ -1,7 +1,5 @@
 package ups.icc.eva_developers.ModuloContactLink.Entities;
 
-import org.springframework.aot.generate.Generated;
-
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
